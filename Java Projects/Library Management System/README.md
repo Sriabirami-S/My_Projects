@@ -42,9 +42,11 @@ CREATE TABLE books (
     author VARCHAR(255),
     status TINYINT(1) DEFAULT 1
 );
+'''
 status = 1 → Available
 
 status = 0 → Borrowed
 
 Update DBHelper.java with your MySQL username, password, and database name.
+
 
