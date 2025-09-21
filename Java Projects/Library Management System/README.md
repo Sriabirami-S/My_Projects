@@ -23,12 +23,13 @@ The **Library Management System (LMS)** is a Java desktop application built usin
 ---
 
 ## Project Structure
+```
 Java Projects/
 └─ Library Management System/
 ├─ LibraryGUI.java # Main GUI class for the LMS application
 ├─ DBHelper.java # Handles database connection
 ├─ Library.java # Handles database operations (add, borrow, return, search)
-
+```
 ---
 
 ## Database Setup
@@ -76,5 +77,6 @@ git clone https://github.com/YourUsername/JavaProjects.git
 - Export book list to CSV or PDF
 
 - Notifications for overdue books
+
 
 
