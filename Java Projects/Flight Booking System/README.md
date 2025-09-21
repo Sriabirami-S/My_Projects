@@ -29,7 +29,6 @@ Java Projects/
 └─ flight_booking_system.java
 ```
 ---
----
 
 ## How to Run
 
