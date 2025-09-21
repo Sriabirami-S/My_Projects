@@ -42,11 +42,34 @@ CREATE TABLE books (
     author VARCHAR(255),
     status TINYINT(1) DEFAULT 1
 );
-'''
-status = 1 → Available
+```
+- status = 1 → Available
 
-status = 0 → Borrowed
+- status = 0 → Borrowed
 
-Update DBHelper.java with your MySQL username, password, and database name.
+3. Update DBHelper.java with your MySQL username, password, and database name.
 
+## How to Run
+
+1. Clone the repository:
+```bash
+
+git clone https://github.com/YourUsername/JavaProjects.git
+```
+
+2. Open the project in Eclipse or any Java IDE.
+
+3. Make sure MySQL is running and the database is created.
+
+4. Run LibraryGUI.java.
+
+5. Use the buttons to Add, Borrow, Return, and Search books.
+
+## Future Enhancements
+
+- User authentication (Admin/Student roles)
+
+- Export book list to CSV or PDF
+
+- Notifications for overdue books
 
