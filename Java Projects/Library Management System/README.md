@@ -49,6 +49,8 @@ CREATE TABLE books (
 
 3. Update DBHelper.java with your MySQL username, password, and database name.
 
+---
+
 ## How to Run
 
 1. Clone the repository:
@@ -65,6 +67,8 @@ git clone https://github.com/YourUsername/JavaProjects.git
 
 5. Use the buttons to Add, Borrow, Return, and Search books.
 
+---
+
 ## Future Enhancements
 
 - User authentication (Admin/Student roles)
@@ -72,4 +76,5 @@ git clone https://github.com/YourUsername/JavaProjects.git
 - Export book list to CSV or PDF
 
 - Notifications for overdue books
+
 
