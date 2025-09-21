@@ -119,16 +119,6 @@ Sample In-Game Display:
 
 Player X wins!
 ```
-
-## View Code
-
-[Code](https://github.com/Sriabirami-S/My_Projects/blob/main/Java%20Projects/tictactoe.java)
-
-## Video Demo
-
-If you would like to watch the game in action, click the link below:
-[Watch the Gameplay](https://drive.google.com/file/d/1PCpxIffXzmYaJorpK4XITGRzwHVLmxqV/view?usp=sharing) 
-
 ---
 
 ## Java Concepts Practiced
