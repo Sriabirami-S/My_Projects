@@ -1,4 +1,4 @@
-# Tic Tac Toe – Java Based Game
+# Tic Tac Toe – Console Based Game
 
 ## Introduction
 
