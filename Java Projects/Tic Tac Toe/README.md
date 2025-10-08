@@ -31,5 +31,4 @@ Each version demonstrates different approaches — one using basic **console inp
 
 
 
-## 📂 Folder Structure
 
